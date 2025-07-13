@@ -206,7 +206,9 @@ Table: Total Weight Distribution of System
 
 
 We performed current analysis under varying load conditions to observe energy consumption. Additionally, three different subjects participated in the study to evaluate the intuitiveness of the gesture control method from a user’s perspective.
+
 Figure: Current vs. time graph for a user weighing 45 kg, who had been exposed to gesture-controlled operation for 20 minutes.
+
 ![image9](https://github.com/user-attachments/assets/69ec20a7-283c-4eff-a231-3923082548b3)
 
 Figure: Current vs. time graph for a user weighing 75 kg with no prior experience in gesture-controlled operation
