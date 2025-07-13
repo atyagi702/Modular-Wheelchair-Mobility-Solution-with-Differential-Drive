@@ -212,18 +212,21 @@ Figure: Current vs. time graph for a user weighing 45 kg, who had been exposed t
 ![image9](https://github.com/user-attachments/assets/69ec20a7-283c-4eff-a231-3923082548b3)
 
 Figure: Current vs. time graph for a user weighing 75 kg with no prior experience in gesture-controlled operation
+
 ![image10](https://github.com/user-attachments/assets/1b3d1a8c-6e06-4990-a8b3-a2227de1e920)
 
 Figure: Current vs. time graph for a user weighing 65 kg with no prior experience in gesture-controlled operation.
+
 ![image11](https://github.com/user-attachments/assets/fbfab011-8345-4969-940d-efabf38f525a)
 
 Figure: Current vs. time graph for the wheelchair ascending a 30-degree ramp.
+
 ![image12](https://github.com/user-attachments/assets/c09d57c8-d390-4ce7-8e80-7684bedf8a9a)
 
 The first graph illustrates a consistent reverse motion during the initial half, followed by a steady forward motion in the latter half. The second graph reveals initial difficulty in distinguishing between forward and reverse motion, but the user eventually establishes a stable forward motion, followed by a steady reverse movement. The third graph depicts a smooth forward motion succeeded by a jerky reverse movement, indicating challenges in maintaining the reverse gesture. In the fourth graph, the wheelchair briefly pauses midway while ascending a 30-degree ramp, holding its position before resuming movement and reaching the flat surface at the top.
 
 ## Notes
-For Code or True Dimension CAD dimensions contact :
+For Code or True Dimension CAD design contact :
 anubhavtyagi02@gmail.com or 
 chauhankriti29@gmail.com
 
