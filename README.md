@@ -1,4 +1,4 @@
-# Modular-Wheelchair-Mobility-Solution-with-Differential-Drive
+# Modular Wheelchair Mobility Solution with Differential Drive
 
 ## Introduction
 
