@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project introduces a modular add-on that converts manual wheelchairs into motorized systems with minimal structural changes. The system features a dual-motor setup with a rear open differential for linear motion and a front rack-and-pinion for steering—both powered by compact DC motors. Designed for plug-and-play integration, it fits most standard wheelchairs without major modifications.
+This project introduces a modular add-on that converts manual wheelchairs into motorized systems with minimal structural changes. The system features a dual-motor setup with a rear open differential for linear motion and a front rack-and-pinion steering mechanism, both powered by compact DC motors. Designed for plug-and-play integration, it fits most standard wheelchairs without major modifications.
 
 To demonstrate control flexibility, a glove with an IMU captures hand gestures in real time and wirelessly transmits pitch and roll angles to STM32 microcontrollers. Flex and touch sensors ensure intentional activation, enhancing safety.
 
